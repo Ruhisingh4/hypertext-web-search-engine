@@ -1,5 +1,4 @@
 streamlit
-numpy
-scikit-learn
 networkx
-sentence-transformers
+scikit-learn
+numpy
